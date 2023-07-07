@@ -1,0 +1,25 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 26-Dec-2022, 12:03:16 pm
+    Author     : acer
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&display=swap'); 
+
+.container{
+    margin-top:30px;
+}
+
+.btn-continer{
+    display:flex;
+    justify-content: center;
+    
+}
+
+.btn{
+   margin-left:20px;
+   margin-right:20px;
+}
